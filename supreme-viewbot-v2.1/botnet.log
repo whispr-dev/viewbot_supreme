@@ -1,0 +1,327 @@
+2026-05-27 16:50:04,749 - INFO - Logging initialized
+2026-05-27 16:50:04,751 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 16:55:51,611 - INFO - Logging initialized
+2026-05-27 16:55:51,611 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 17:04:28,521 - INFO - Logging initialized
+2026-05-27 17:04:28,523 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 17:04:31,224 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 17:04:31,225 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 17:04:31,226 - INFO - ====== WebDriver manager ======
+2026-05-27 17:04:34,343 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-27 17:04:35,440 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-27 17:04:36,313 - INFO - There is no [win64] chromedriver "148.0.7778.178" for browser google-chrome "148.0.7778" in cache
+2026-05-27 17:04:36,313 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-27 17:04:38,266 - INFO - WebDriver version 148.0.7778.178 selected
+2026-05-27 17:04:38,280 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win32/chromedriver-win32.zip
+2026-05-27 17:04:38,280 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win32/chromedriver-win32.zip
+2026-05-27 17:04:39,335 - INFO - Driver downloading response is 200
+2026-05-27 17:04:39,658 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-27 17:04:41,194 - INFO - Driver has been saved in cache [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178]
+2026-05-27 17:06:39,139 - INFO - Logging initialized
+2026-05-27 17:06:39,141 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 17:06:40,532 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 17:06:40,534 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 17:06:40,534 - INFO - ====== WebDriver manager ======
+2026-05-27 17:06:43,740 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-27 17:06:46,001 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-27 17:06:48,061 - INFO - WebDriver version 148.0.7778.178 selected
+2026-05-27 17:06:48,074 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+2026-05-27 17:06:48,074 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+2026-05-27 17:06:49,004 - INFO - Driver downloading response is 200
+2026-05-27 17:06:49,770 - INFO - Driver has been saved in cache [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178]
+2026-05-27 17:08:26,104 - INFO - Logging initialized
+2026-05-27 17:08:26,104 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 17:08:27,805 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 17:08:27,806 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 17:08:27,807 - INFO - ====== WebDriver manager ======
+2026-05-27 17:08:29,916 - INFO - Driver [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-27 17:13:31,345 - INFO - Logging initialized
+2026-05-27 17:13:31,350 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 17:13:33,936 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 17:13:33,937 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 17:13:33,938 - INFO - ====== WebDriver manager ======
+2026-05-27 17:13:36,986 - INFO - Driver [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-27 17:13:41,239 - ERROR - Try: 1) Update Chrome  2) Run without --headless first
+2026-05-27 17:16:11,255 - INFO - Logging initialized
+2026-05-27 17:16:11,256 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 17:16:12,692 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 17:16:12,693 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 17:16:12,711 - ERROR - Suggestions: 1) Close all Chrome windows 2) Try without --headless 3) Update Chrome
+2026-05-27 18:42:17,325 - INFO - Logging initialized
+2026-05-27 18:42:17,325 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 18:42:18,147 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 18:42:18,147 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 18:42:18,148 - INFO - ====== WebDriver manager ======
+2026-05-27 18:42:20,206 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-27 18:42:21,864 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-27 18:42:22,844 - INFO - WebDriver version 148.0.7778.178 selected
+2026-05-27 18:42:22,851 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+2026-05-27 18:42:22,852 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+2026-05-27 18:42:23,258 - INFO - Driver downloading response is 200
+2026-05-27 18:42:23,863 - INFO - Driver has been saved in cache [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178]
+2026-05-27 18:42:27,026 - ERROR - Suggestions:
+2026-05-27 18:42:27,026 - ERROR - 1. Close ALL Chrome windows
+2026-05-27 18:42:27,026 - ERROR - 2. Try without --headless first
+2026-05-27 18:42:27,026 - ERROR - 3. Delete old driver cache:
+2026-05-27 18:42:27,026 - ERROR -    Remove-Item -Path "$HOME\.wdm\drivers\chromedriver" -Recurse -Force
+2026-05-27 18:50:46,418 - INFO - Logging initialized
+2026-05-27 18:50:46,419 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 18:50:59,416 - INFO - Logging initialized
+2026-05-27 18:50:59,417 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 18:50:59,988 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 18:50:59,989 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 18:50:59,989 - INFO - ====== WebDriver manager ======
+2026-05-27 18:51:01,739 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-27 18:51:03,013 - INFO - Get LATEST chromedriver version for google-chrome
+2026-05-27 18:51:04,062 - INFO - WebDriver version 148.0.7778.178 selected
+2026-05-27 18:51:04,070 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+2026-05-27 18:51:04,071 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/148.0.7778.178/win64/chromedriver-win64.zip
+2026-05-27 18:51:08,442 - INFO - Driver downloading response is 200
+2026-05-27 18:51:08,970 - INFO - Driver has been saved in cache [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178]
+2026-05-27 18:51:12,026 - ERROR - Failed to start Chrome: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7e50+14900]
+	chromedriver!(No symbol) [0x7ff6cfa1d5ad]
+	chromedriver!(No symbol) [0x7ff6cfa5ee28]
+	chromedriver!(No symbol) [0x7ff6cfa5a349]
+	chromedriver!(No symbol) [0x7ff6cfaadd21]
+	chromedriver!(No symbol) [0x7ff6cfaad586]
+	chromedriver!(No symbol) [0x7ff6cfa69df8]
+	chromedriver!(No symbol) [0x7ff6cfa6ace3]
+	chromedriver!GetHandleVerifier [0x7ff6cffccc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff6cffc7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff6cffebc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff6cfcd6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff6cfcdecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff6cfca60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3227e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc3422427c+2c]
+
+2026-05-27 18:53:56,613 - INFO - Logging initialized
+2026-05-27 18:53:56,613 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 18:53:57,266 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 18:53:57,267 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 18:53:57,267 - INFO - ====== WebDriver manager ======
+2026-05-27 18:53:58,908 - INFO - Driver [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-27 18:54:02,166 - ERROR - Failed to start Chrome: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7e50+14900]
+	chromedriver!(No symbol) [0x7ff6cfa1d5ad]
+	chromedriver!(No symbol) [0x7ff6cfa5ee28]
+	chromedriver!(No symbol) [0x7ff6cfa5a349]
+	chromedriver!(No symbol) [0x7ff6cfaadd21]
+	chromedriver!(No symbol) [0x7ff6cfaad586]
+	chromedriver!(No symbol) [0x7ff6cfa69df8]
+	chromedriver!(No symbol) [0x7ff6cfa6ace3]
+	chromedriver!GetHandleVerifier [0x7ff6cffccc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff6cffc7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff6cffebc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff6cfcd6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff6cfcdecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff6cfca60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3227e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc3422427c+2c]
+
+2026-05-27 18:58:10,682 - INFO - Logging initialized
+2026-05-27 18:58:10,683 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 18:58:11,239 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 18:58:11,239 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 18:58:11,240 - INFO - ====== WebDriver manager ======
+2026-05-27 18:58:12,476 - INFO - Driver [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-27 18:58:15,317 - ERROR - Failed to start Chrome: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7e50+14900]
+	chromedriver!(No symbol) [0x7ff6cfa1d5ad]
+	chromedriver!(No symbol) [0x7ff6cfa5ee28]
+	chromedriver!(No symbol) [0x7ff6cfa5a349]
+	chromedriver!(No symbol) [0x7ff6cfaadd21]
+	chromedriver!(No symbol) [0x7ff6cfaad586]
+	chromedriver!(No symbol) [0x7ff6cfa69df8]
+	chromedriver!(No symbol) [0x7ff6cfa6ace3]
+	chromedriver!GetHandleVerifier [0x7ff6cffccc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff6cffc7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff6cffebc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff6cfcd6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff6cfcdecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff6cfca60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3227e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc3422427c+2c]
+
+2026-05-27 19:00:51,585 - INFO - Logging initialized
+2026-05-27 19:00:51,585 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:00:52,096 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 19:00:52,097 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:00:52,101 - INFO - ====== WebDriver manager ======
+2026-05-27 19:00:52,840 - INFO - Driver [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-27 19:00:55,643 - ERROR - Failed to start Chrome: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7e50+14900]
+	chromedriver!(No symbol) [0x7ff6cfa1d5ad]
+	chromedriver!(No symbol) [0x7ff6cfa5ee28]
+	chromedriver!(No symbol) [0x7ff6cfa5a349]
+	chromedriver!(No symbol) [0x7ff6cfaadd21]
+	chromedriver!(No symbol) [0x7ff6cfaad586]
+	chromedriver!(No symbol) [0x7ff6cfa69df8]
+	chromedriver!(No symbol) [0x7ff6cfa6ace3]
+	chromedriver!GetHandleVerifier [0x7ff6cffccc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff6cffc7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff6cffebc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff6cfcd6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff6cfcdecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff6cfca60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3227e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc3422427c+2c]
+
+2026-05-27 19:00:55,644 - ERROR - Check ChromeDriver log here: C:\Users\owner\AppData\Local\Temp\tmp7owbi0ch.log
+2026-05-27 19:07:58,629 - INFO - Logging initialized
+2026-05-27 19:07:58,630 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:07:59,127 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 19:07:59,128 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:07:59,128 - INFO - ====== WebDriver manager ======
+2026-05-27 19:07:59,979 - INFO - Driver [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-27 19:08:02,752 - ERROR - Failed to start Chrome: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7e50+14900]
+	chromedriver!(No symbol) [0x7ff6cfa1d5ad]
+	chromedriver!(No symbol) [0x7ff6cfa5ee28]
+	chromedriver!(No symbol) [0x7ff6cfa5a349]
+	chromedriver!(No symbol) [0x7ff6cfaadd21]
+	chromedriver!(No symbol) [0x7ff6cfaad586]
+	chromedriver!(No symbol) [0x7ff6cfa69df8]
+	chromedriver!(No symbol) [0x7ff6cfa6ace3]
+	chromedriver!GetHandleVerifier [0x7ff6cffccc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff6cffc7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff6cffebc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff6cfcd6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff6cfcdecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff6cfca60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3227e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc3422427c+2c]
+
+2026-05-27 19:15:57,506 - INFO - Logging initialized
+2026-05-27 19:15:57,507 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:15:58,092 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 19:15:58,092 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:15:58,094 - INFO - ====== WebDriver manager ======
+2026-05-27 19:15:58,878 - INFO - Driver [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-27 19:16:01,679 - ERROR - Failed to start Chrome: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7e50+14900]
+	chromedriver!(No symbol) [0x7ff6cfa1d5ad]
+	chromedriver!(No symbol) [0x7ff6cfa5ee28]
+	chromedriver!(No symbol) [0x7ff6cfa5a349]
+	chromedriver!(No symbol) [0x7ff6cfaadd21]
+	chromedriver!(No symbol) [0x7ff6cfaad586]
+	chromedriver!(No symbol) [0x7ff6cfa69df8]
+	chromedriver!(No symbol) [0x7ff6cfa6ace3]
+	chromedriver!GetHandleVerifier [0x7ff6cffccc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff6cffc7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff6cffebc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff6cfcd6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff6cfcdecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff6cfca60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3227e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc3422427c+2c]
+
+2026-05-27 19:19:15,061 - INFO - Logging initialized
+2026-05-27 19:19:15,062 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:19:15,567 - INFO - Loaded 1 proxies from proxies.txt
+2026-05-27 19:19:15,567 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:19:15,569 - INFO - ====== WebDriver manager ======
+2026-05-27 19:19:16,396 - INFO - Driver [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-27 19:19:19,173 - ERROR - Failed to start Chrome: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7e50+14900]
+	chromedriver!(No symbol) [0x7ff6cfa1d5ad]
+	chromedriver!(No symbol) [0x7ff6cfa5ee28]
+	chromedriver!(No symbol) [0x7ff6cfa5a349]
+	chromedriver!(No symbol) [0x7ff6cfaadd21]
+	chromedriver!(No symbol) [0x7ff6cfaad586]
+	chromedriver!(No symbol) [0x7ff6cfa69df8]
+	chromedriver!(No symbol) [0x7ff6cfa6ace3]
+	chromedriver!GetHandleVerifier [0x7ff6cffccc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff6cffc7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff6cffebc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff6cfcd6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff6cfcdecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff6cfca60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3227e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc3422427c+2c]
+
+2026-05-27 19:23:37,343 - INFO - Logging initialized
+2026-05-27 19:23:37,344 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:23:37,802 - INFO - Opening YouTube: https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:23:37,805 - INFO - ====== WebDriver manager ======
+2026-05-27 19:23:38,556 - INFO - Driver [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-27 19:23:41,343 - ERROR - Failed to start Chrome: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff6cfcb7e50+14900]
+	chromedriver!(No symbol) [0x7ff6cfa1d5ad]
+	chromedriver!(No symbol) [0x7ff6cfa5ee28]
+	chromedriver!(No symbol) [0x7ff6cfa5a349]
+	chromedriver!(No symbol) [0x7ff6cfaadd21]
+	chromedriver!(No symbol) [0x7ff6cfaad586]
+	chromedriver!(No symbol) [0x7ff6cfa69df8]
+	chromedriver!(No symbol) [0x7ff6cfa6ace3]
+	chromedriver!GetHandleVerifier [0x7ff6cffccc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff6cffc7375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff6cffebc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff6cfcd6045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff6cfcdecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff6cfcc1d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff6cfca60e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3227e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc3422427c+2c]
+
+2026-05-27 19:53:20,385 - INFO - Logging initialized
+2026-05-27 19:53:20,386 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:53:35,162 - INFO - Logging initialized
+2026-05-27 19:53:35,163 - INFO - Starting Full YouTube Engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:53:35,843 - INFO - Starting YouTube engagement on https://www.youtube.com/watch?v=dQw4w9wgxcq
+2026-05-27 19:53:35,845 - INFO - ====== WebDriver manager ======
+2026-05-27 19:53:36,668 - INFO - Driver [C:\Users\owner\.wdm\drivers\chromedriver\win64\148.0.7778.178\chromedriver-win64/chromedriver.exe] found in cache by browser version
+2026-05-27 19:53:39,717 - ERROR - Failed to start Chrome: Message: session not created: Chrome instance exited. Examine ChromeDriver verbose log to determine the cause.
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff663677de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff663677e50+14900]
+	chromedriver!(No symbol) [0x7ff6633dd5ad]
+	chromedriver!(No symbol) [0x7ff66341ee28]
+	chromedriver!(No symbol) [0x7ff66341a349]
+	chromedriver!(No symbol) [0x7ff66346dd21]
+	chromedriver!(No symbol) [0x7ff66346d586]
+	chromedriver!(No symbol) [0x7ff663429df8]
+	chromedriver!(No symbol) [0x7ff66342ace3]
+	chromedriver!GetHandleVerifier [0x7ff66398cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff663987375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff6639abc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff663696045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff66369ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff663681bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff663681d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff6636660e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffc3227e957+17]
+	ntdll!RtlUserThreadStart [0x7ffc3422427c+2c]
+

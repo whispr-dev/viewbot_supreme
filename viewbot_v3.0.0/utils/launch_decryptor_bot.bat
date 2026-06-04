@@ -1,6 +1,0 @@
-@echo off
-echo Updating proxies...
-python proxy_updater.py
-echo Running Medium Decryptor Bot...
-python main.py --platform medium --mode full --url "https://medium.com/@example/article" --threads 7 --requests 37 --delay 20 --webhook "https://discord.com/api/webhooks/137067146283..."
-pause

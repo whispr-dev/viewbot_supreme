@@ -1,0 +1,3 @@
+# Put your real proxies here (http://ip:port or socks5://ip:port)
+http://127.0.0.1:8080
+# Add more real working proxies below
